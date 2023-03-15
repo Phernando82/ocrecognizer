@@ -2,6 +2,7 @@
 ##
 ### OCRecognizer is a desktop program for Windows that lets you extract text from images and PDF files
 ##
+### Download OCRecognizer
 [Windows](https://drive.google.com/file/d/1YPHSKaxGdxXXoxLuVRZSmreSB07CXkJD/view?usp=sharing)
    64 bits installer
 ##
