@@ -5,7 +5,7 @@
 [Windows](https://drive.google.com/file/d/1YPHSKaxGdxXXoxLuVRZSmreSB07CXkJD/view?usp=sharing)
    64 bits installer
 ##
-### Install Tesseract-OCR
+### Install Tesseract-OCR on Windows
 
 
 https://github.com/UB-Mannheim/tesseract/wiki
